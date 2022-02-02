@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: MAGALU (REAIS) (level)
+Mean: 7.09
+Median: 3.83
+Sample std: 8.01
+Variance: 64.13
+Lowest: 0.03
+Highest: 25.27
+--------------------------------------------------

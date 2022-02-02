@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Nonseasonal differences needed for stationarity: 2
+
+Variable: MAGALU (REAIS)
+ADF Test: -6.521993
+P-value: 0.000000
+Lags: 4
+Observations: 78
+Critical values:
+  1%: -4.079791
+  5%: -3.468358
+  10%: -3.160891
+--------------------------------------------------
